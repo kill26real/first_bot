@@ -1,5 +1,5 @@
 import telebot
-bot = telebot.TeleBot('5729532686:AAGXpQ26h6RTTcciCEqu4MTbVpDFXA5NVwk')
+bot = telebot.TeleBot('TOKEN')
 
 name = ''
 surname = ''
